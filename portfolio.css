@@ -192,6 +192,12 @@
 	.progress-bar{
 	background-color:#1c91e8;
 	}
+	.bg-skew{
+	background-color:#f2f4f7;
+	padding:5px 0px;
+    box-shadow: 0 5px 5px -5px #3b3b3d;	
+	color:#494949;
+	}
 	.ht{
 	padding:7px;
 	margin-bottom:15px;
@@ -519,16 +525,16 @@
     /*========= banner TXT ========*/
     .bann-picc{
 	background-image:url("images/banner2.jpg");
-	background-position:center;
+	background-position:center center;
 	overflow-X:hidden;
 	background-repeat:no-repeat;
 	}
 	.bann-pdT-sz {
-	padding-top:11rem;
+	padding-top:14rem;
 	font-size:2rem;
 	}
 	.bann-pdB-sz {
-	padding-bottom:9rem;
+	padding-bottom:12rem;
 	font-size:1.2rem;
 	}
 	.p-overl{
